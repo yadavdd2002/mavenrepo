@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html Test>
 <html>
     <head>
         <title>W3.CSS</title>
